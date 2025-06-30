@@ -1,7 +1,5 @@
 <p align="center">
-  <div style="height: 150px; overflow: hidden;">
-    <img src="https://t3.ftcdn.net/jpg/07/28/94/76/360_F_728947627_YANF0diunr6LAN21J1KFu3drjbZXgg2J.jpg" alt="Blockchain Project Banner" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
+    <img src="https://dq300iingq64j.cloudfront.net/s3-uploads/our_blog/images/blog-img/blockchain-image-banner.webp" alt="Blockchain Project Banner" style="width: 100%; height: 200px; object-fit: cover;">
 </p>
 
 # 🔗 Blockchain: A Deep Dive into the Technology of the Future ⛓️
